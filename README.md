@@ -13,6 +13,16 @@ Word Embeddings/1. Word2Vec with Gensim/Word2Vec with Gensim.ipynb
 
 
 
+
+
+
+
+
+
+
+
+
+
 Interactive Visualisation of Word Vectors
 
 <img width="1717" height="645" alt="image" src="https://github.com/user-attachments/assets/3bb475e1-7347-4b7b-9714-d360a32b69d5" />
